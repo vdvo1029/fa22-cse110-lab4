@@ -22,4 +22,11 @@
     f. 3, the false becomes a 0
     g. 3undefined, the undefined becomes a string
     h. NaN, the undefined becomes an NaN so 3 - NaN is Nan.
-14. 
+14. a. true, the 2 becomes a 1.
+    b. false, the 2 operands are strings. 1 comes before 2.
+    c. true, the string 2 becomes the number 2.
+    d. false, the 2 operands are different types so false is returned. 
+    e. false, true becomes 1
+    f. true, the parameter for the boolean function is a value so the function returns true
+15. == does type conversion and === does not do type conversion.
+16. 
