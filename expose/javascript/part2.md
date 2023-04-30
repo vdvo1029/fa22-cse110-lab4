@@ -11,4 +11,15 @@
 11. same as 4 and 8. No error since const is not out of scope.
 12. a. student['name']
     b. student['Grad Year']
-    c. 
+    c. student.greeting()
+    d. student['Favorite Teacher'].name
+    e. student['courseLoad'][0]
+13. a. 32, the 3 is a string and 2 maps to the string representation of 2
+    b. 1, the 3 is converted to an integer 3
+    c. 3, null becomes 0
+    d. 3null, the null becomes a string null
+    e. 4, the true becomes a 1
+    f. 3, the false becomes a 0
+    g. 3undefined, the undefined becomes a string
+    h. NaN, the undefined becomes an NaN so 3 - NaN is Nan.
+14. 
