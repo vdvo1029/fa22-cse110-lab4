@@ -29,4 +29,5 @@
     e. false, true becomes 1
     f. true, the parameter for the boolean function is a value so the function returns true
 15. == does type conversion and === does not do type conversion.
-16. 
+17. [2,4,6] The function loops through the input array, calls doSomething on the current index which multiplies it by 2, and pushes the value in a new array. Since 1,2,3 is the input, doubling everything gives 2,4,6.
+18.  
