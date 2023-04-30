@@ -9,3 +9,6 @@
 9.  An error for same reason as 5.
 10. 3 is returned because prices.length is 3.
 11. same as 4 and 8. No error since const is not out of scope.
+12. a. student['name']
+    b. student['Grad Year']
+    c. 
